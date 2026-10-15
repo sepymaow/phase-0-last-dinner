@@ -147,7 +147,7 @@ The server test suite includes account persistence, authentication, profile upda
 | Member | Primary areas |
 | --- | --- |
 | Matin Khorasani | Core game systems, progression, levels, quests, shop, greenhouse, and selected gameplay/UI features |
-| Sepanta Saeidi | Minigames, authentication/profile UI, leaderboard UI, and the I, Zombie multiplayer foundation and gameplay |
+| [Sepanta Saeidi](https://github.com/sepymaow) | Minigames, authentication/profile UI, leaderboard UI, and the networked I, Zombie multiplayer foundation and gameplay |
 | [Shayan Pourghafar](https://github.com/shayanp85) | Plant and zombie systems, collection and plant-pick flows, gameplay rendering and interactions, account/network integration, and leaderboard networking |
 
 Development was collaborative, and responsibilities overlapped through integration, reviews, merges, and shared bug fixes.
